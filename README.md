@@ -1,3 +1,5 @@
-# CryticOpFactins
+# CrypticOpFactions
 
-### Idk Id This Works
+[o]Fix Core
+[o]Renovate
+[o]Test out.
