@@ -1,10 +1,10 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/NopeNotDark/CrypticOpFactions
-build-by-default: false
+build-by-default: true
 branches:
 - master
 projects:
   CrypticOpFactions:
     path: ""
-  lint:
-     phpstan: false
+    lint:
+      phpstan: false
 ...
