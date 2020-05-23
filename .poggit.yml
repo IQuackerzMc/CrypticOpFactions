@@ -1,8 +1,10 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/MakerbakerYT/CryticOpFactins
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/NopeNotDark/CrypticOpFactions
 build-by-default: false
 branches:
 - master
 projects:
-  CryticOpFactins:
+  CrypticOpFactions:
     path: ""
+  lint:
+     phpstan: false
 ...
