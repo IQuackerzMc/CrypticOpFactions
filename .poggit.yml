@@ -5,6 +5,4 @@ branches:
 projects:
   CrypticOpFactions:
     path: ""
-    lint:
-      phpstan: false
 ...
